@@ -1,4 +1,4 @@
-package src;
+package com.javanaakie;
 
 public abstract class Vehicle implements Rentable,Loyalty,Rating{
     private String vehicleId;

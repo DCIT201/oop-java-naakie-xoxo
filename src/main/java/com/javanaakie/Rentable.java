@@ -1,4 +1,4 @@
-package src;
+package com.javanaakie;
 
 public interface Rentable {
 

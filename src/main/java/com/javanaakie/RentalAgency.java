@@ -1,4 +1,4 @@
-package src;
+package com.javanaakie;
 
 import java.util.ArrayList;
 import java.util.List;

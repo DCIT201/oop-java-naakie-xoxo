@@ -1,12 +1,13 @@
-package src;
+package com.javanaakie;
 
 public class Customer {
     private String name;
     private int age;
+    private boolean hasRented;
     private String customerID;
     private String[] rentalHistory=new String[0];
 
-    private boolean hasRented;
+
 
     public Customer(String name, int age, String customerID) {
         this.name = name;
